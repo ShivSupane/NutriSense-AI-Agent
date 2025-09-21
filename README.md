@@ -41,7 +41,6 @@ NutriSense AI leverages **IBM Watsonx.ai Agent Lab** and **Granite LLM** to offe
 - **Granite Foundation Model (LLM):** Understands and processes nutrition-related queries.
 - **Watson Discovery / RAG:** Retrieves dietary data from structured knowledge bases.
 - **Cloud Object Storage:** Stores nutritional datasets and user preferences.
-- *(Optional)* IBM Visual Recognition: For food image label reading and analysis.
 
 ---
 
@@ -131,6 +130,7 @@ D Y Patil International University – Department of Computer Science
 
 This project is licensed under the **MIT License**.  
 For academic and educational purposes only.
+
 
 
 
