@@ -122,8 +122,6 @@ NutriSense AI leverages **IBM Watsonx.ai Agent Lab** and **Granite LLM** to offe
 ## 👨‍💻 Author
 
 **Shivprasad Supane**  
-D Y Patil International University – Department of Computer Science
-
 ---
 
 ## ⚖️ License
