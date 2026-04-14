@@ -104,8 +104,7 @@ NutriSense AI leverages **IBM Watsonx.ai Agent Lab** and **Granite LLM** to offe
 ## 🛣 Future Enhancements
 
 - 🎙 **Voice-enabled Queries:** Speech-to-text support for hands-free nutrition advice.  
-- 📱 **Mobile App:** Companion app for on-the-go recommendations.  
-- 🌐 **Multilingual Support:** Global access via IBM Language Translator.  
+- 📱 **Mobile App:** Companion app for on-the-go recommendations.   
 - ⌚ **Real-Time Feedback:** Integration with wearables and fitness trackers.
 
 ---
